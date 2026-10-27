@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Name:** MANDIPALLI SREE DIVYA
-- **Registration Number:** 252U1R9080
+- **Registration Number:** 252U1R9093
 - **Section:** CSE GEN-AI 111 2B
 - **Subject:** Backend Development Fundamentals
 
