@@ -13,7 +13,7 @@
 **Platform:** Render
 
 **Live API URL:**
-your url
+https://backend-development-labs-8o9m.onrender.com/
 
 The Book Management REST API is deployed and publicly accessible through Render.
 
@@ -271,7 +271,7 @@ The deployed API is tested using Postman Web.
 **Base URL:**
 
 ```text
-https://backend-development-labs-1-ho2i.onrender.com
+https://backend-development-labs-8o9m.onrender.com/
 ```
 
 ### Test Cases
